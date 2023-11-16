@@ -6,3 +6,5 @@ function daysOfAYear(year) {
     return 365; // Non-leap year
   }
 }
+
+console.log(daysOfAYear(2022));
