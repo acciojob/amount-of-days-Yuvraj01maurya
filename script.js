@@ -7,4 +7,4 @@ function daysOfAYear(year) {
   }
 }
 
-console.log(daysOfAYear(2022));
+//console.log(daysOfAYear(2022));
